@@ -2,29 +2,38 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware+Engineer;PCB+Design+%7C+KiCad+%7C+Altium;Arduino+%7C+ESP32+%7C+PIC;FPGA+%7C+Verilog+%7C+FSM;Robotics+and+Control+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware+Engineer;PCB+Design+%7C+KiCad+%7C+Altium;Arduino+%7C+ESP32+%7C+PIC;FPGA+%7C+Verilog+%7C+FSM; VLSI-Layout-Design)](https://git.io/typing-svg)
 
 </div>
 
 ---
+## 📊 GitHub Activity
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanaHS&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"
+    width="95%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ShravanaHS&theme=nord&hide_border=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShravanaHS&theme=nord_dark"
+    width="48%"
+  />
+</p>
+
 
 ## 👨‍💻 About Me
 
 I am a final-year **Electronics & Communication Engineering** student (2026 batch) with strong interest and hands-on experience in **embedded hardware design, PCB development, and digital systems**.  
 My work spans microcontroller-based designs, power electronics, FPGA/RTL projects, and robotics applications. I enjoy building complete systems from schematic to firmware and testing.
 
----
-
-## 🎯 Areas of Interest
-
-- Embedded Hardware & PCB Design (KiCad, Altium)
-- Microcontrollers: STM32, PIC, ATmega
-- Embedded Firmware & Peripheral Interfacing
-- FPGA & Digital Design (Verilog, FSM)
-- VLSI and Layout Design
-
-
----
 
 ## 🚀 Highlighted Projects
 
@@ -74,17 +83,6 @@ My work spans microcontroller-based designs, power electronics, FPGA/RTL project
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanaHS&bg_color=ffffff&color=000000&line=00bfff&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShravanaHS&theme=default&hide_border=true"/>
-</p>
-
----
 
 ## 🔗 Connect With Me
 
