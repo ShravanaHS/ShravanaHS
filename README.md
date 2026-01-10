@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware+Engineer;PCB+Design+%7C+KiCad+%7C+Altium;Arduino+%7C+ESP32+%7C+PIC;FPGA+%7C+Verilog+%7C+FSM;VLSI+Layout+Design"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware+Engineer;PCB+Design+KiCad+Altium;Arduino+%7C+ESP32+%7C+PIC;FPGA+%7C+Verilog+%7C+FSM;VLSI+Layout+Design"
     alt="Typing SVG"
   />
 </p>
