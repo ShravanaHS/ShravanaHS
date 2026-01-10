@@ -2,12 +2,12 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware;PCB+Design+-+KiCad+and+Altium;Arduino+ESP32+PIC;FPGA+Verilog+FSM;VLSI+Layout+Design"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware;PCB+Design+-+KiCad+and+Altium;Arduino+ESP32+PIC;FPGA+Verilog+FSM;VLSI+Layout+Design"
     alt="Typing SVG"
   />
 </p>
 
-
+<br/>
 <br/>
 
 <p align="center">
@@ -16,3 +16,4 @@
     width="95%"
   />
 </p>
+
