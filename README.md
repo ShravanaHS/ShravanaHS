@@ -12,6 +12,6 @@
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanaHS&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"
-    width="95%"
+    width="91%"
   />
 </p>
