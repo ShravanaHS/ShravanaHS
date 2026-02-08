@@ -24,15 +24,3 @@
 | **Hardware & PCB** | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-A52A2A?style=flat) **Bare-metal** **Circuit Simulation** |
 | **VLSI & FPGA** | ![Verilog](https://img.shields.io/badge/Verilog-F29111?style=flat) **RTL Design** **FSM** **Cadence Virtuoso** **OpenSTA** |
 
----
-
-### 📊 Github Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanaHS&bg_color=0d1117&hide_border=true&point=false&line=00BFFF&radius=8&area=true&area_color=00BFFF&title_color=ffffff&color=ffffff" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShravanaHS&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ShravanaHS&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-</p>
