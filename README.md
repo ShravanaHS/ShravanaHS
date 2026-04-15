@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shravana H S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware+Engineer;PCB+Design+(KiCad+%7C+Altium);Firmware+Development;FPGA+%7C+Verilog+%7C+FSM; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=00BFFF&center=true&vCenter=true&lines=Embedded+Hardware+Engineer;PCB+Design+(KiCad+%7C+Altium);Firmware+Development;FPGA+%7C+Verilog+%7C+FSM alt="Typing SVG" />
 </p>
 
 <p align="center">
