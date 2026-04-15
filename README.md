@@ -22,15 +22,10 @@
 | :--- | :--- |
 | **Firmware & Bare-Metal** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-89e051?style=flat) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) **Bare-metal (PIC/ATmega)** |
 | **Hardware & PCB** | ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-A52A2A?style=flat) **High-Speed Design** **Circuit Simulation** |
-| **VLSI & FPGA** | ![Verilog](https://img.shields.io/badge/Verilog-F29111?style=flat) **RTL Modeling** **FSM Design** **Cadence Virtuoso** **OpenSTA** |
+| **VLSI & FPGA** | ![Verilog](https://img.shields.io/badge/Verilog-F29111?style=flat) **RTL Modeling** **FSM Design** **Cadence Virtuoso** **OpenLANE** |
 | **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
-
-### 📡 What I'm working on
-* 🎓 **K-VLSI Cohort 3:** Deep diving into Design Verification and Static Timing Analysis at IIIT Bangalore.
-* 🤖 **Robotics Firmware:** Developing low-latency control systems for Nosh Robotics.
-* ⚡ **Bare-metal Drivers:** Writing register-level drivers for 8-bit and 32-bit microcontrollers.
 
 ---
 
