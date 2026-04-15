@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Electronics & Communication Engineering Student | R&D Intern @ Nosh Robotics</strong><br>
+  <strong>Electronics & Communication Engineering Student </strong><br>
   Specializing in Hardware-Software Co-Design, RTL Verification, and High-Speed PCB Layout.
 </p>
 
