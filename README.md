@@ -26,11 +26,3 @@
 | **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shravana-h-s&show_icons=true&theme=tokyonight" alt="Shravana's GitHub stats" height="170px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravana-h-s&layout=compact&theme=tokyonight" alt="Top Languages" height="170px" />
-</p>
